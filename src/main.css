@@ -1,0 +1,9 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.active{
+  font-weight: 700;
+}
+
+.menu{
+  background-color: #444;
+}
